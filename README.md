@@ -9,6 +9,8 @@
 
 ![poa_light.png](./data/readme_images/poa_light.png)
 ![poa_dark.png](./data/readme_images/poa_dark.png)
+![trusts_light.png](./data/readme_images/trusts_light.png)
+![trusts_dark.png](./data/readme_images/trusts_dark.png)
 
 ##### Todo:
 
